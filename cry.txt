@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+
+<html>
+
+<head><script type="text/javascript">
+
+function show_confirm()
+
+{var ans=confirm("Do you want to proceed?");
+
+if (ans==true)
+
+{document.write("You have entered Stage 2");}
+
+19
+
+else{document.write("You will remain at Stage 1");}}
+
+</script>
+
+</head>
+
+<body>
+
+<input type="button" onclick="show_confirm()" value="Click here to begin"/)
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+
+<head><title>If Else</title>
+
+<script type="text/javascript">
+
+function check()
+
+{
+
+
+if (document.example.answer.value=="Web Scripting")
+
+{document.write("You answered correctly!");}
+
+else if (document.example.answer.value=="")
+
+{document.write("You did not answer the question!");}
+
+else
+
+{document.write("Sorry. Try again!");}}
+
+</script>
+
+</head>
+
+<body>
+
+<p>What is the title of this book?</p>
+
+<form name="example">
+
+<input type="text" name="answer" value="">
+
+<input type="button" name="answerbutton"
+
+value="SUBMIT"
+ onClick=check()>
+</form></body></html>
+
+<!DOCTYPE html>
+
+<head><title>Switch</title>
+
+<script type="text/javascript">
+
+function bookcheck()
+
+
+
+{ var book=document.frmbook.cmbbook.value
+
+switch (book)
+
+{case "1": alert("J.R.R Tolkien")
+
+break
+
+case "2": alert("C.S. Lewis")
+
+break
+
+case "3": alert("J.K Rowling")
+
+break
+
+case "4": alert("Mark Twain")
+
+break
+
+default: alert("undetermined")}}
+
+</script></head>
+<body>
+
+<p>Select a book below to find the name of the author</p>
+
+<form name=frmbook>
+
+<select name=cmbbook>
+
+<option value=1>Lord of the Rings</option>
+
+<option </option> value=2>Chronicles of Narnia
+
+<option value=3>Harry Potter</option>
+
+<option value=4>The Adventures Huckleberry Finn</option></select> of
+
+<input type="button" name="combo"
+
+value="SUBMIT" onClick=bookcheck()>
+
+</form>
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+
+<html>
+
+<head><title>Function</title>
+
+<script type="text/javascript">
+
+function displaymessage()
+
+{
+
+alert("Hi there!");
+
+}
+
+</script>
+
+</head>
+
+<body>
+
+<form>
+
+<input type="button" value="Click Me!" onClick="displaymessage()"/>
+
+</form>
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+
+<html>
+
+<head><title>function</title>
+
+<script type="text/javascript">
+
+function add()
+
+{var A=Number (document.example.firstno.value);
+
+var B-Number (document.example.secondno.value);
+
+var C=A+B;
+
+document.example.sumno.value=C;
+
+}
+
+</script>
+
+</head>
+
+<body>
+
+<form name="example">
+
+<input type="type name="firstno" value="">+
+
+<input type"type" name="secondno" value="">=
+
+<input type="type" name="sumno" value="">
+
+<br>
+
+<input type="button" name="addno" value="Submit" onClick=add()>
+
+</form>
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+
+<html>
+
+<head><title>Return</title>
+
+<script type="text/javascript">
+
+function product(x,y)
+
+{
+
+return x*y;
+
+}
+
+</script>
+
+</head>
+
+<body>
+
+<script language="javascript">
+
+document.write("The product of x and y is");
+
+document.write(product(5,7));
+
+</script>
+
+</body>
+
+</html>
+
+<p>lesson 4</p>
+
+<!DOCTYPE html>
+
+<html>
+
+:
+
+<head><title>ForLoop</title></head>
+
+<body>
+
+<script type="text/javascript">
+
+var x;
+
+for (x=0;x<=6;x++)
+
+{
+
+document.write(++x);
+
+document.write("<br/>");
+
+}
+
+document.write("Kaboom!");
+
+</script>
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+
+<html>
+
+<head><title>For Loop Input Example</title></head>
+
+<body>
+
+<script type="text/javascript">
+
+// Number of times to ask for input var numberOfInputs = 3;
+
+// Loop to get inputs
+
+for (var i = 0; i < numberOfInputs; i++)
+{
+// Prompt the user to input a value var userInput prompt("Please enter a value (" + (i + 1) + " of " + numberOfInputs + ")");
+
+// Display the entered value document.write("You entered: " + userInput + "<br/>");
+}
+</script>
+
+</body>
+
+</html>
+
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head><title>While</title></head>
+
+<body>
+
+<script type="text/javascript">
+
+var x=0;
+
+while (x<5)
+
+{
+
+document.write(x);
+
+document.write("<br/>");
+
+x++;
+
+}
+
+document.write("Kaboom!");
+
+</script>
+
+</body>
+
+</html>
+
+<html>
+
+<head><title>While Loop Input Example</title></head>
+
+<body>
+
+<script type="text/javascript">
+
+var userInput = "";
+
+// While loop to continue asking for input until a valid value is entered while (userInput == "")
+
+{ userInput prompt("Please enter a value (cannot be empty):");
+
+// Prompt the user for input
+
+// Check if the input is empty
+
+if (userInput === "")
+
+alert("Input cannot be empty. Please try again.");
+
+{
+
+}
+
+}
+
+// Once a valid input is entered, display the value document.write("You entered: " + userInput);
+
+</script>
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+
+<html>
+
+<head><title>For-in Loop Input Example</title></head>
+
+<body>
+
+<script type="text/javascript">
+
+// Ask the user how many values they want to input
+
+var numberOfInputs prompt("How many values do you want to input?"); numberOfInputs parseInt(numberOfInputs); // Convert the input to a number
+
+// Initialize an empty array
+
+var userInputs [];
+
+// Use a for loop to collect the input values for (var i=0; i < numberofInputs; i++)
+
+var input prompt("Enter value +(1+1) + ":"); userInputs[i] input; // Store the input value in the array
+
+// Use the for-in loop to display the collected values document.write("<h2>You entered the following values:</h2>"); for (var index in userInputs)
+
+document.write(userInputs [index] + "<br/>");
+
+{
+
+}
+
+
+
+
+</script>
+
+</body> </html>
+
+<!DOCTYPE html>
+
+<html>
+
+<head><title>For-in Loop Input Example</title></head>
+
+<body>
+
+<script type="text/javascript">
+
+// Ask the user how many values they want to input
+
+var numberOfInputs prompt("How many values do you want to input?"); numberOfInputs parseInt(numberOfInputs); // Convert the input to a number
+
+// Initialize an empty array
+
+var userInputs [];
+
+// Use a for loop to collect the input values for (var i=0; i<numberOfInputs; i++)
+{
+var input prompt("Enter value +(1+1)+":");
+
+userInputs [1] input; // Store the input value in the array
+}
+// Use the for-in loop to display the collected values document.write("<h2>You entered the following values:</h2>"); for (var index in userInputs)
+{
+document.write(userInputs [index] + "<br/>");
+}
+</script>
+</body>
+</html>
+

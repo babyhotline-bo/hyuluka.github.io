@@ -1,0 +1,115 @@
+ <html>
+<head><title>Tolosa_Eportfolio</title></head>
+
+    <style>
+
+    * {
+      box-sizing: border-box;
+    }
+    
+    body {
+      margin: 0;
+    }
+    
+    /* Style the header */
+    .header {  
+      background-image: url("Luka alien stage wallpaper.jpeg");
+      padding: 20px;
+      text-align: center;
+    }
+    
+    /* Style the top navigation bar */
+    .topnav {
+      overflow: hidden;
+      background-color: rgb(0, 225, 255);
+    }
+    
+    /* Style the topnav links */
+    .topnav a {
+      float: left;
+      display: block;
+      color: #00e5ff;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    /* Change color on hover */
+    .topnav a:hover {
+      background-color: hwb(256 0% 0%);
+      color: #07173c;
+    }
+    </style>
+    
+   
+    
+    <div class="header">
+      <h1><font color="White">»»———- Chloe Tolosa's E-portfolio ———-««</font></h1>
+    </div>
+    
+    <div class="topnav">
+    
+      <a href="EPORTFOLIO_TOLOSA.html"> 1st Meeting Point</a>
+      <a href="<!DOCTYPE html>.html">New Chapter</a>
+      <a href="MYSAVIOR.html">Last Dance</a>
+      <a href="#">Browser Outputs</a>
+      <a href="ROMH.html">Photos</a>
+      <a href="BLINKGONE.html">Reflection</a>
+       
+ 
+    </div>
+
+    <style>
+      body {
+        background-image: url("Luka alien stage wallpaper.jpeg"); background-repeat: repeat-y; background-size: 100%;
+      }
+      </style>
+
+    
+<br>
+    <h2><p align="center"> <font color="Black">Browser Outputs!</font> </p> </h2>
+
+    <style>
+      a:link {
+        color: rgb(0, 8, 255);
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:visited {
+        color: rgb(0, 17, 255);
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: rgb(0, 255, 234);
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      
+      a:active {
+        color: rgb(0, 255, 162);
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      </style>
+  <style> 
+    body {
+
+      background-image: url("Luka alien stage wallpaper.jpeg");
+background-repeat:no repeat;
+background-attachment:fixed;
+background-size: 100% auto;
+    }
+  </style>
+
+<center>
+  <a href="cry.html">Click me!</a>
+  </center> 
+  
+    
+
+</body>
+</html>
+
