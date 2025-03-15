@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+  <head><title>VIDS&AUDIO</title></head>
+<style>
+
+    * {
+      box-sizing: border-box;
+    }
+    
+    body {
+      margin: 0;
+    }
+    
+    /* Style the header */
+    .header {  
+      background-image: url("lumeree.jpeg");
+      background-repeat:no repeat;
+      background-attachment:fixed;
+background-size: 100% auto;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    /* Style the top navigation bar */
+    .topnav {
+      overflow: hidden;
+      background-color: rgb(0, 0, 0);
+    }
+    
+    /* Style the topnav links */
+    .topnav a {
+      float: left;
+      display: block;
+      color: #ff8000;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    /* Change color on hover */
+    .topnav a:hover {
+      background-color: hwb(46 0% 0%);
+      color: #07173c;
+    }
+    </style>
+    
+   
+    
+    <div class="header">
+      <h1><font color="White">ˏˋ°•*⁀➷: ̗̀➛ VIDEOS&AUDIOS</font></h1>
+    </div>
+    
+    <div class="topnav">
+        <a href="EPORTFOLIO_TOLOSA.html"> 1st Meeting Point</a>
+        <a href="<!DOCTYPE html>.html">New Chapter</a>
+      <a href="DOYUIN.html">Browser Outputs</a>
+      <a href="PHOTOS.html">Photos</a>
+      <a href="#">Audios&Video</a>
+      <a href="HELP.html">Reflection</a>
+ 
+    </div>
+
+    <style>
+      body {
+    
+        background-image: url("lumeree.jpeg");
+background-repeat:no repeat;
+background-attachment:fixed;
+background-size: 100% auto;
+
+      }
+      </style>
+
+
+<h2><p align="center"> <font color="White"> HISTORICAL ICON</font> </p> </h2>
+<center>
+<video width="1000" height="500" controls>
+  <source src="DE.mp4" type="video/mp4">
+  <source src="DE.ogg" type="video/ogg">
+</video> 
+</center>
+
+<h2><p align="center"> <font color="White"> CREATING THE DRESS</font> </p> </h2>
+<center>
+<video width="1000" height="500" controls>
+  <source src="y.mp4" type="video/mp4">
+  <source src="y.ogg" type="video/ogg">
+</video> 
+</center>
+
+<h2><p align="center"> <font color="White"> AFTERMATH OF VPOP PRACTICE</font> </p> </h2>
+<center>
+<video width="1000" height="500" controls>
+  <source src="f.mp4" type="video/mp4">
+  <source src="f.ogg" type="video/ogg">
+</video> 
+</center>
+
+<h2><p align="center"> <font color="White"> PLAYLIST I LISTENED TOO THE MOST</font> </p> </h2>
+
+<h4><p align="center"> <font color="White"> Alternative Rock for the soul</font></p> </h4>
+<center>
+    <audio controls>
+        <source src="Lilia.ogg" type="audio/ogg">
+        <source src="Lilia.mp3" type="audio/mpeg">
+
+      </audio>
+</center>
+<br>
+<h4><p align="center"> <font color="White">Jazzy Moonlight</font> </p> </h4>
+<center>
+    <audio controls>
+        <source src="pome.ogg" type="audio/ogg">
+        <source src="pome.mp3" type="audio/mpeg">
+
+      </audio>
+</center>
+</html>

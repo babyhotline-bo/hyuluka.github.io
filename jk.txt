@@ -1,0 +1,32 @@
+<html>
+<head>
+<link rel="stylesheet" href="jabloon.css" type="text/css">
+</head>
+<body>
+<h1>jaloon porfol</h1>
+<div class="flex-container">
+  <div><img src="[image.jpg]"></div>
+  <div>Text</div> 
+  <div>Text</div>
+  <div><img src="[image.jpg]"></div>  
+</div>
+<div class="flex-container">
+  <div>Text</div>
+  <div><img src="[image.jpg]"></div>
+  <div><img src="[image.jpg]"></div>
+  <div>Text</div>   
+</div>
+<div class="flex-container">
+  <div><img src="[image.jpg]"></div>
+  <div>Text</div> 
+  <div>Text</div>
+  <div><img src="[image.jpg]"></div>  
+</div>
+<div class="flex-container">
+  <div>Text</div>
+  <div><img src="[image.jpg]"></div>
+  <div><img src="[image.jpg]"></div>
+  <div>Text</div>   
+</div>
+</body>
+</html>

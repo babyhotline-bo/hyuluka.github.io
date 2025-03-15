@@ -1,0 +1,100 @@
+<html>
+<head><title>ABOUT ME</title></head>
+
+    <style>
+
+    * {
+      box-sizing: border-box;
+    }
+    
+    body {
+      margin: 0;
+    }
+    
+    /* Style the header */
+    .header {  
+      background-image: url("gold.jpeg");
+      padding: 20px;
+      text-align: center;
+    }
+    
+    /* Style the top navigation bar */
+    .topnav {
+      overflow: hidden;
+      background-color: rgb(0, 0, 0);
+    }
+    
+    /* Style the topnav links */
+    .topnav a {
+      float: left;
+      display: block;
+      color: #ff8000;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    /* Change color on hover */
+    .topnav a:hover {
+      background-color: hwb(46 0% 0%);
+      color: #07173c;
+    }
+    </style>
+    
+   
+    
+    <div class="header">
+      <h1><font color="White">ˏˋ°•*⁀➷: ̗̀➛ ABOUT ME</font></h1>
+    </div>
+    
+    <div class="topnav">
+        <a href="EPORTFOLIO_TOLOSA.html">Meeting Point</a>
+      <a href="#">About me</a>
+      <a href="BROSWER OUTPUTS.html">Browser Outputs</a>
+      <a href="REFLECTION.html">Reflection</a>
+ 
+    </div>
+
+    <style>
+      body {
+        background-image: url("gold.jpeg"); background-repeat: repeat-y; background-size: 100%;
+      }
+      </style>
+
+      <h2> <font color="White"><p align="center">Hello! Welcome to my about me, this is the page where you get to know me.</font></p></h2>
+
+      <h3><font color="white"><p align="center">: ̗̀➛Interest</p></font></h3>
+      <br>
+      <h4><font color="white"><p align="center"> -Writing a novel</font></p></h4>
+      <h5><font color="white"><p align="center"> *I always wanted to write a novel but I can't really find the time too,Hopefully I can write one before collage.</font></p></h5>
+      <h4><font color="white"><p align="center"> -Studying Japanese History</font></p></h4>
+      <h5><font color="white"><p align="center"> *I am really interested in Japanese culture and their customs, It also somewhat gives me a feeling of home. </font></p></h5>
+<br>
+      <h3><font color="white"><p align="center">: ̗̀➛Hobbies</p></font></h3>
+      <br>
+      <h4><font color="white"><p align="center"> -Arts</font></p></h4>
+      <h5><font color="white"><p align="center"> *I really love doing anything related in arts, it keeps me calm and it turns off my brain.</font></p></h5>
+      <h4><font color="white"><p align="center"> -Reading</font></p></h4>
+      <h5><font color="white"><p align="center"> *I currently in too deep with Percy Jackson and I am currently in love with Leo Valdez (my mom knows) .</font></p></h5>
+      <h4><font color="white"><p align="center"> -Singing</font></p></h4>
+      <h5><font color="white"><p align="center"> *This is more of a hobby that I needed for clubs, it's still a nice hobby though.</font></p></h5>
+      <h4><font color="white"><p align="center"> -Sleeping</font></p></h4>
+      <h5><font color="white"><p align="center"> *I miss sleeping from my younger years (back cracks) </font></p></h5>
+      <h4><font color="white"><p align="center"> -Painting</font></p></h4>
+      <h5><font color="white"><p align="center"> *It makes me feel calm and helps me with my own creativity.</font></p></h5>
+      <br>
+      <h3><font color="white"><p align="center">: ̗̀➛Others</p></font></h3>
+      <br>
+      <h4><font color="white"><p align="center"> -Make up</font></p></h4>
+      <h5><font color="white"><p align="center"> *I am currently interested in finding my personal make up style and so far it is wonderful </font></p></h5>
+      <h4><font color="white"><p align="center"> -Perfumes</font></p></h4>
+      <h5><font color="white"><p align="center"> *I'm mostly interested in making the same scent as my old favorite perfume, along the way though I was able to make a signature scent for now. </font></p></h5>
+
+
+    
+    
+
+    
+<br>
+    </body>
+</html>

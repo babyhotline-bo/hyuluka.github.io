@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head><title>LEOVALDEZ</title></head>
+
+    <style>
+
+    * {
+      box-sizing: border-box;
+    }
+    
+    body {
+      margin: 0;
+    }
+    
+    /* Style the header */
+    .header {  
+      background-image: url("valdez.jpeg");
+      background-repeat:no repeat;
+      background-attachment:fixed;
+background-size: 100% auto;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    /* Style the top navigation bar */
+    .topnav {
+      overflow: hidden;
+      background-color: rgb(0, 0, 0);
+    }
+    
+    /* Style the topnav links */
+    .topnav a {
+      float: left;
+      display: block;
+      color: #ff8000;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    /* Change color on hover */
+    .topnav a:hover {
+      background-color: hwb(46 0% 0%);
+      color: #07173c;
+    }
+    </style>
+    
+   
+    
+    <div class="header">
+      <h1><font color="White">ˏˋ°•*⁀➷: ̗̀➛ REFLECTION </font></h1>
+    </div>
+    
+    <div class="topnav">
+        <a href="EPORTFOLIO_TOLOSA.html"> 1st Meeting Point</a>
+        <a href="<!DOCTYPE html>.html">New Chapter</a>
+      <a href="DOYUIN.html">Browser Outputs</a>
+      <a href="PHOTOS.html">Photos</a>
+      <a href="VIDEOS&AUDIOS.html">Audios&Video</a>
+      <a href="#">Reflection</a>
+ 
+    </div>
+
+    <style>
+      body {
+        background-image: url("valdez.jpeg");
+background-repeat:no repeat;
+background-attachment:fixed;
+background-size: 100% auto;
+
+      }
+      </style>
+
+
+
+<h2><p align="center"> <font color="White">Now After All that, What have we learned?</font> </p> </h2>
+<h4><p align="center"><font color="White"> In this Quarter I learned alot but have yet to apply it all to my projects. I have struggled and I might know a few concepts. </font></p></h4>
+  <h4><p align="center"><font color="White"> It is confusing and the quarter was also filled projects. We worked on a lot of things and we are thankful for the journey.  </font></p></h4>
+  <h4><p align="center"><font color="White"> This quarter had us make dresses, cooperate and manage time. It was a (for the lack of a better word) hellish but we survived.</font></p></h4>
+      <h4><p align="center"><font color="White"> There were alot of ups and downs in this quarter, with a few things to spice it up even if it is already filled with flavor. </font></p></h4>
+      <h4><p align="center"><font color="White"> Dispite all the challenges, we were able to persevere and we were able to pass all our requirements.</font></p></h4>
+      <h4><p align="center"><font color="White">I fully accept my fate at this point and I'll just drink milktea to feel better. </font></p></h4>
+      <h4><p align="center"><font color="White"> Even if the quarter hasn't fully ended and that there are still things to be done.</font></p></h4>
+      <h4><p align="center"><font color="White"> We are currently dreaming about the holidays and the benefits of just chilling this time.</font></p></h4>
+      <h4><p align="center"><font color="White"> Warmth is endless, as time is endless. Let that be a reminder to everyone struggling.</font></p></h4>
+      <h4><p align="center"><font color="White"> Thank you for reading and I'll see you next time!</font></p></h4>
+</html>

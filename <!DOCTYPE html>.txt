@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head><title>2nd quarter</title></head>
+
+    <style>
+
+    * {
+      box-sizing: border-box;
+    }
+    
+    body {
+      margin: 0;
+    }
+    
+    /* Style the header */
+    .header {  
+      background-image: url("KIA.jpeg");
+      background-repeat:no repeat;
+      background-attachment:fixed;
+background-size: 100% auto;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    /* Style the top navigation bar */
+    .topnav {
+      overflow: hidden;
+      background-color: rgb(0, 0, 0);
+    }
+    
+    /* Style the topnav links */
+    .topnav a {
+      float: left;
+      display: block;
+      color: #ff8000;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    /* Change color on hover */
+    .topnav a:hover {
+      background-color: hwb(46 0% 0%);
+      color: #07173c;
+    }
+    </style>
+    
+   
+    
+    <div class="header">
+      <h1><font color="White">ˏˋ°•*⁀➷: ̗̀➛ NEW CHAPTER</font></h1>
+    </div>
+    
+    <div class="topnav">
+        <a href="EPORTFOLIO_TOLOSA.html"> 1st Meeting Point</a>
+      <a href="DOYUIN.html">Browser Outputs</a>
+      <a href="PHOTOS.html">Photos</a>
+      <a href="VIDEOS&AUDIOS.html">Audios&Video</a>
+      <a href="HELP.html">Reflection</a>
+ 
+    </div>
+
+    <style>
+      body {
+    
+        background-image: url("KIA.jpeg");
+background-repeat:no repeat;
+background-attachment:fixed;
+background-size: 100% auto;
+
+      }
+      </style>
+
+      <br><br>
+      <h2><p align="center"> <font color="White">Hello ^^ It's me again, Chloe your local camper! Are you ready for another summer filled with quest? </font> </p> </h2>
+      <br>
+      <h3><p align="center"> <font color="White"> I hope you are ready to expirience the magic of fire then!</font> </p> </h3>
+      <h3><p align="center"> <font color="White"> Mr. Leo Valdez is here to help us tour the new chapter!</font> </p> </h3>
+      <br>
+      <h3><p align="center"> <font color="White">Leo: Hello Everyone! I'm here to show you all the cool new things that we learnt.</font></p></h3>
+      <h3><p align="center"> <font color="White"> Leo: As a photographer of course, Now..Let's get into it!</font> </p> </h3>
+      
+   
+<br>
+    </body>
+</html>
